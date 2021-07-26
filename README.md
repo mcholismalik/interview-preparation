@@ -94,7 +94,26 @@ Choose 1 or more stack, and deep dive into it
     - Queued input
     - Streaming
 
-## 5. Design System
+## 5. Design Patten
+
+1. OOP Paradigm
+    1. Abstraction
+    2. Inheritance
+    3. Encaptulation
+    4. Polymorphism
+2. SOLID Princple
+    1. Single Responsibility
+    2. Open Closed
+    3. Liskov Subtitution
+    4. Interface Segregation
+    5. Dependency Inversion
+3. Clean Architecture
+    1. Entity
+    2. Usecase / service
+    3. Controller / handler
+    4. External Interface
+
+## 6. Design System
 
 1. Design Pattern
     - OOP Paradigm
@@ -119,25 +138,6 @@ Choose 1 or more stack, and deep dive into it
     - Use DTO validate request schema
     - Use ORM prevent sql injection
     - Use Constraint to handle db rules
-
-## 6. Design Patten
-
-1. OOP Paradigm
-    1. Abstraction
-    2. Inheritance
-    3. Encaptulation
-    4. Polymorphism
-2. SOLID Princple
-    1. Single Responsibility
-    2. Open Closed
-    3. Liskov Subtitution
-    4. Interface Segregation
-    5. Dependency Inversion
-3. Clean Architecture
-    1. Entity
-    2. Usecase / service
-    3. Controller / handler
-    4. External Interface
 
 ## 7. Non Tech Interview
 Frequently Ask Question of the non tech interview
