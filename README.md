@@ -8,8 +8,8 @@ List of topic that you need to mastered for interview as a Software Engineer
 2. Algorithm
 3. Data Structure
 4. Tech Stack
-5. System Design
-6. Design Pattern
+5. Design Pattern
+6. Design System
 7. Non Tech Interview
 
 ## 1. Big O(n) Notation
