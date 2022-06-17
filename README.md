@@ -68,8 +68,27 @@ Standar data structure in some programming language
     3. Tries
     4. Hash table
 
-## 4. TechStack
-Choose 1 or more stack, and deep dive into it
+## 4. Design Patten
+
+1. OOP Paradigm
+    1. Abstraction
+    2. Inheritance
+    3. Encaptulation
+    4. Polymorphism
+2. SOLID Princple
+    1. Single Responsibility
+    2. Open Closed
+    3. Liskov Subtitution
+    4. Interface Segregation
+    5. Dependency Inversion
+3. Clean Architecture
+    1. Entity
+    2. Usecase / service
+    3. Controller / handler
+    4. External Interface
+
+## 5. Programming Language
+Choose 1 or more programming language, and deep dive into it
 
 1. What ?
     - NodeJS is dynamic/static typed backend language that use google v8 chrome engine & libuv library
@@ -94,52 +113,35 @@ Choose 1 or more stack, and deep dive into it
     - Queued input
     - Streaming
 
-## 5. Design Patten
+## 6. Coding 
+Simple case to improve coding skill, create crud sample in json local  
+- Read list json
+- Filter slice, by date
+- Sort slice, by date
+- Append list json 
 
-1. OOP Paradigm
-    1. Abstraction
-    2. Inheritance
-    3. Encaptulation
-    4. Polymorphism
-2. SOLID Princple
-    1. Single Responsibility
-    2. Open Closed
-    3. Liskov Subtitution
-    4. Interface Segregation
-    5. Dependency Inversion
-3. Clean Architecture
-    1. Entity
-    2. Usecase / service
-    3. Controller / handler
-    4. External Interface
+## 7. Stack
 
-## 6. Design System
+1. Protocol
+- Rest
+- Grpc
+- Graphql
+- Websocket
+- Ssh
+- Sftp
+2. Database
+- Postgres
+- Mysql
+- Mongo
+3. Cache
+- Redis
+4. Message broker
+- Redis
+- Kafka
+- Rabbit
+5. Database
 
-1. Design Pattern
-    - OOP Paradigm
-    - SOLID Principle
-    - Clean Architecture
-
-2. Performance
-    - NodeJS
-        - Avoid blocking I/O with asynchronous code
-        - Execute with child process for computing
-    - Golang
-        - Use pointer to reduce memory
-        - Stay concurrency with goroutine
-
-3. Test
-    - Add unit test in each layer
-    - Add mocky in each unit test
-
-4. Security
-    - Authentication with JWT
-    - Authorization with Role based map to each route
-    - Use DTO validate request schema
-    - Use ORM prevent sql injection
-    - Use Constraint to handle db rules
-
-## 7. Non Tech Interview
+## 8. Non Tech Interview
 Frequently Ask Question of the non tech interview
 
 1. Tell me about you & your current company
