@@ -123,23 +123,25 @@ Simple case to improve coding skill, create crud sample in json local
 ## 7. Stack
 
 1. Protocol
-- Rest
-- Grpc
-- Graphql
-- Websocket
-- Ssh
-- Sftp
+    - Rest
+    - Grpc
+    - Graphql
+    - Websocket
+    - Ssh
+    - Sftp
 2. Database
-- Postgres
-- Mysql
-- Mongo
+    - Postgres
+    - Mysql
+    - Mongo
 3. Cache
-- Redis
+    - Redis
 4. Message broker
-- Redis
-- Kafka
-- Rabbit
-5. Database
+    - Redis
+    - Kafka
+    - Rabbit
+5. Test
+    - Unit test
+    - Integ test
 
 ## 8. Non Tech Interview
 Frequently Ask Question of the non tech interview
