@@ -50,6 +50,8 @@ Basic problem solving way in some case
     1. Bubble Sort
     2. Merge Sort
     3. Quick Sort
+    4. Insertion Sort
+    5. Selection Sort
 
 ## 3. Data Structure
 Standar data structure in some programming language
@@ -71,9 +73,9 @@ Standar data structure in some programming language
 ## 4. Design Patten
 
 1. OOP Paradigm
-    1. Abstraction
+    1. Encaptulation
     2. Inheritance
-    3. Encaptulation
+    3. Abstraction
     4. Polymorphism
 2. SOLID Princple
     1. Single Responsibility
