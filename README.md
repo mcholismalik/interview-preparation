@@ -1,5 +1,5 @@
 # Interview Preparation
-There's some basic topic that you need to mastered for interview preparation as a Software Engineer
+There's some topic for interview preparation as a Software Engineer
 
 ## Index
 List of topic that you need to mastered for interview as a Software Engineer
