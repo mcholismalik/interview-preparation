@@ -88,6 +88,10 @@ Standar data structure in some programming language
     2. Usecase / service
     3. Controller / handler
     4. External Interface
+4. Hexagonal Architecture
+    1. Usecase
+    2. Adapter
+    3. In/Out bound
 
 ## 5. Programming Language
 Choose 1 or more programming language, and deep dive into it
